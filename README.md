@@ -1,31 +1,22 @@
-<h1 align="center">Hi 👋, I'm Aboubakar</h1>
-<h3 align="center">MERN Stack Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Ihsan AHmed</h1>
+<h3 align="center">Python Developer | AI Engineer |Full-Stack MERN Engineer || Agentic AI & Mobile App Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aboubakararisar&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
+<
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **sportsfest-app**
-- 🌱 I’m currently learning **Remix.js**
+- 🔭 I’m currently working on **EaseShop**
+- 🌱 I’m currently learning **React.js &Node.js**
 - 👨‍💻 All of my projects are available at  
-  👉 **https://aboubakardev.vercel.app**
+  👉 **https://ihsanahmeddev.vercel.app**
 - 💬 Ask me about **React, Next.js**
-- 📫 How to reach me **aboubakar.dev@gmail.com**
+- 📫 How to reach me **ihsanahmed.dev@gmail.com**
 
 ---
-
-### 🧠 Daily.dev Profile
-
-<a href="https://app.daily.dev/pindaricoders">
-  <img src="https://api.daily.dev/devcards/v2/XXXX.png?r=abc" width="400" alt="Aboubakar's Dev Card"/>
-</a>
-
----
-
+<a href="https://app.daily.dev/ihsanahmed"><img src="https://api.daily.dev/devcards/v2/TrEUbvpMwWbfRWwdKuSD3.png?type=wide&r=8p7" width="652" alt="Ihsan Ahmed's Dev Card"/></a>
 ### 🌐 Connect with Me
 
 <p align="left">
