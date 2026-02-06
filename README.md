@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **React.js &Node.js**
 - 👨‍💻 All of my projects are available at  
   👉 **https://ihsanahmeddev.vercel.app**
-- 💬 Ask me about **React, Next.js**
 - 📫 How to reach me **ihsanahmed.dev@gmail.com**
 
 ---
