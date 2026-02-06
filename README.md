@@ -2,8 +2,6 @@
 <h3 align="center">Python Developer | AI Engineer |Full-Stack MERN Engineer || Agentic AI & Mobile App Learner</h3>
 
 
-<
-
 ---
 
 ### 👨‍💻 About Me
@@ -15,7 +13,7 @@
 - 📫 How to reach me **ihsanahmed.dev@gmail.com**
 
 ---
-<a href="https://app.daily.dev/ihsanahmed"><img src="https://api.daily.dev/devcards/v2/TrEUbvpMwWbfRWwdKuSD3.png?type=wide&r=8p7" width="652" alt="Ihsan Ahmed's Dev Card"/></a>
+<a href="https://app.daily.dev/ihsanahmed" align="center" ><img src="https://api.daily.dev/devcards/v2/TrEUbvpMwWbfRWwdKuSD3.png?type=wide&r=8p7" width="652" alt="Ihsan Ahmed's Dev Card"/></a>
 ### 🌐 Connect with Me
 
 <p align="left">
