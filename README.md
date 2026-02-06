@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ihsan AHmed</h1>
+<h1 align="center">Hi 👋, I'm Ihsan Ahmed</h1>
 <h3 align="center">Python Developer | AI Engineer |Full-Stack MERN Engineer || Agentic AI & Mobile App Learner</h3>
 
 
